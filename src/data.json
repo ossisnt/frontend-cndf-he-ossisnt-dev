@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "domain": "hotmail.com", 
+      "emails": [
+        "*********gl@hotmail.com", 
+        "gusta***********o@hotmail.com", 
+        "********ni@hotmail.com", 
+        "*******ques*89@hotmail.com", 
+        "marco*******@hotmail.com"
+      ]
+    }, 
+    {
+      "domain": "yahoo.com.br", 
+      "emails": [
+        "rafa***********@yahoo.com.br"
+      ]
+    }, 
+    {
+      "domain": "fatec.sp.gov.br", 
+      "emails": [
+        "cris*****.*******@fatec.sp.gov.br"
+      ]
+    }, 
+    {
+      "domain": "outlook.com", 
+      "emails": [
+        "*******neves@outlook.com"
+      ]
+    }, 
+    {
+      "domain": "gmail.com", 
+      "emails": [
+        "ri***********@gmail.com", 
+        "juli*********@gmail.com", 
+        "mar**********@gmail.com", 
+        "vinicius*************@gmail.com", 
+        "al*******@gmail.com", 
+        "********.prof@gmail.com", 
+        "*******ni@gmail.com", 
+        "*********@gmail.com", 
+        "bruno********@gmail.com", 
+        "na********@gmail.com", 
+        "**********eduardo@gmail.com", 
+        "fro*****.*******le@gmail.com"
+      ]
+    }, 
+    {
+      "domain": "live.com", 
+      "emails": [
+        "********amorim*******@live.com"
+      ]
+    }
+  ], 
+  "status": "success"
+}
